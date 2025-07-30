@@ -1,181 +1,61 @@
 {
-  "infoblox_a_record": {
-    "required": [
-    ],
-    "optional": [
-    ]
-  },
-  "infoblox_aaaa_record": {
-    "required": [
-    ],
-    "optional": [
-    ]
-  },
-  "infoblox_alias_record": {
-    "required": [
-    ],
-    "optional": [
-    ]
-  },
-  "infoblox_cname_record": {
-    "required": [
-    ],
-    "optional": [
-    ]
-  },
-  "infoblox_dns_view": {
-    "required": [
-    ],
-    "optional": [
-    ]
-  },
-  "infoblox_dtc_lbdn": {
-    "required": [
-    ],
-    "optional": [
-    ]
+  "infoblox_ip_association": {
   },
   "infoblox_dtc_pool": {
-    "required": [
-    ],
-    "optional": [
-    ]
   },
-  "infoblox_dtc_server": {
-    "required": [
-    ],
-    "optional": [
-    ]
-  },
-  "infoblox_fixed_address": {
-    "required": [
-    ],
-    "optional": [
-    ]
-  },
-  "infoblox_ip_allocation": {
-    "required": [
-    ],
-    "optional": [
-    ]
-  },
-  "infoblox_ip_association": {
-    "required": [
-    ],
-    "optional": [
-    ]
+  "infoblox_cname_record": {
   },
   "infoblox_ipv4_range_template": {
-    "required": [
-    ],
-    "optional": [
-    ]
-  },
-  "infoblox_ipv4_range": {
-    "required": [
-    ],
-    "optional": [
-    ]
-  },
-  "infoblox_ipv4_shared_network": {
-    "required": [
-    ],
-    "optional": [
-    ]
-  },
-  "infoblox_mx_record": {
-    "required": [
-    ],
-    "optional": [
-    ]
-  },
-  "infoblox_network_container": {
-    "required": [
-    ],
-    "optional": [
-    ]
-  },
-  "infoblox_network_view": {
-    "required": [
-    ],
-    "optional": [
-    ]
-  },
-  "infoblox_network": {
-    "required": [
-    ],
-    "optional": [
-    ]
-  },
-  "infoblox_ns_record": {
-    "required": [
-    ],
-    "optional": [
-    ]
-  },
-  "infoblox_ptr_record_expected_data_00": {
-    "required": [
-    ],
-    "optional": [
-    ]
-  },
-  "infoblox_ptr_record_expected_data_01": {
-    "required": [
-    ],
-    "optional": [
-    ]
-  },
-  "infoblox_ptr_record_test_data_00": {
-    "required": [
-    ],
-    "optional": [
-    ]
-  },
-  "infoblox_ptr_record_test_data_01": {
-    "required": [
-    ],
-    "optional": [
-    ]
-  },
-  "infoblox_ptr_record_test_err_data_00": {
-    "required": [
-    ],
-    "optional": [
-    ]
-  },
-  "infoblox_ptr_record": {
-    "required": [
-    ],
-    "optional": [
-    ]
   },
   "infoblox_srv_record": {
-    "required": [
-    ],
-    "optional": [
-    ]
+  },
+  "infoblox_ptr_record": {
   },
   "infoblox_txt_record": {
-    "required": [
-    ],
-    "optional": [
-    ]
-  },
-  "infoblox_zone_auth": {
-    "required": [
-    ],
-    "optional": [
-    ]
   },
   "infoblox_zone_delegated": {
-    "required": [
-    ],
-    "optional": [
-    ]
+  },
+  "infoblox_dns_view": {
   },
   "infoblox_zone_forward": {
-    "required": [
-    ],
-    "optional": [
-    ]
+  },
+  "infoblox_dtc_lbdn": {
+  },
+  "infoblox_ptr_record_expected_data_00": {
+  },
+  "infoblox_ptr_record_expected_data_01": {
+  },
+  "infoblox_mx_record": {
+  },
+  "infoblox_network": {
+  },
+  "infoblox_network_container": {
+  },
+  "infoblox_ipv4_range": {
+  },
+  "infoblox_zone_auth": {
+  },
+  "infoblox_a_record": {
+  },
+  "infoblox_ns_record": {
+  },
+  "infoblox_ip_allocation": {
+  },
+  "infoblox_ptr_record_test_data_00": {
+  },
+  "infoblox_ipv4_shared_network": {
+  },
+  "infoblox_network_view": {
+  },
+  "infoblox_ptr_record_test_err_data_00": {
+  },
+  "infoblox_fixed_address": {
+  },
+  "infoblox_aaaa_record": {
+  },
+  "infoblox_alias_record": {
+  },
+  "infoblox_ptr_record_test_data_01": {
+  },
+  "infoblox_dtc_server": {
   }}
