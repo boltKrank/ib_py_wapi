@@ -205,3 +205,7 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+*/teradform-provider-infoblox
+.DS_Store
+bash/01/terraform-provider-infoblox
+bash/01/data_dumps

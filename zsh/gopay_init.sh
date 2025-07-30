@@ -1,0 +1,6 @@
+export INFOBLOX_HOST="10.193.36.90"
+export INFOBLOX_USERNAME="admin"
+export INFOBLOX_PASSWORD="Infoblox@312"
+export WAPI_VERSION="v2.10"
+
+ 
